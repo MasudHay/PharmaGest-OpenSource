@@ -37,6 +37,14 @@ As the initial developer is based in a bilingual country (Cameroon) but attended
 ## 🚀 How to Contribute?
 
 All help is welcome, regardless of your experience level!
+### Default Credentials
+
+Upon the first run, the system uses the following default administrator credentials to access the main management menu:
+
+- **Username:** `admin`
+- **Password:** `12345`
+
+**SECURITY NOTE:** It is strongly recommended to change these credentials immediately after the first successful login.
 
 ### 1. Installation
 
